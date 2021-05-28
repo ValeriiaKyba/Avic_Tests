@@ -1,1 +1,1 @@
-Before running the tests, you need to download and add to the folder "Resources" in your project chromedriver.exe
+Before running the tests, you need to download chromedriver.exe and add it to the folder "Resources" in your project.
